@@ -8,6 +8,7 @@
 Before using the script, ensure you have all the necessary dependencies installed. You can install them using `pip`:
 
 ```bash
+cd scripts/
 pip install -r requirements.txt
 ```
 
