@@ -1,0 +1,16 @@
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.csv
+*.db
+*.pyc
+# Directories #
+######################
+scripts/__pycache__/
+scripts/ntds_entries/__pycache__/
+scripts/output/
+scripts/myenv/
