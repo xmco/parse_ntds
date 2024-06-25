@@ -13,4 +13,5 @@ Thumbs.db
 scripts/__pycache__/
 scripts/ntds_entries/__pycache__/
 scripts/output/
-scripts/myenv/
+myenv/
+
